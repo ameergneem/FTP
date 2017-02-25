@@ -16,4 +16,4 @@ What makes this FTP so uniqe, is that the server using two design patterns two h
 												 this design pattern came to solve the low efficiency of the Thread-per-client design pattern.
 												 
 
-*NOTE: there are some "extra" classes in the server project folder, you are free two take a look.
+*NOTE: there are some "extra" classes in the server project folder, you are free to take a look.
